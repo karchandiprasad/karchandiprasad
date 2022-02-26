@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @karchandiprasad
+- 👋 Hi, I’m Chandiprasad Kar
 - 👀 I’m interested in learning new language
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on artificial inteligence
+- 💞️ I’m looking to collaborate on artificial intelligence
 - 📫 Reach me on email chandiprasad.kar@gmail.com
 
 <!---
